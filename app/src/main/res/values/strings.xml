@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChamaChallenge</string>
+    <string name="error_common_message">Unexpected error occurred. Try again</string>
+    <string name="action_retry">Retry</string>
+    <string name="heritages_title">Heritages</string>
+    <string name="heritages_location">Heritage Location</string>
+    <string name="heritages_no_heritages">No heritages were fetched</string>
+</resources>
