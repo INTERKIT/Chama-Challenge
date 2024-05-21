@@ -13,7 +13,7 @@ The Chama Challenge app is your ultimate companion for the annual Chama Chile Sk
 
 | First Screen                        | Second Screen                       | Third Screen                        |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![1]() | ![2]() | ![3]() |
+| ![1](https://github.com/INTERKIT/Chama-Challenge/blob/master/screenshots/Screenshot%202024-05-21%20at%2011.25.12.png) | ![2](https://github.com/INTERKIT/Chama-Challenge/blob/master/screenshots/Screenshot%202024-05-21%20at%2011.25.34.png) | ![3](https://github.com/INTERKIT/Chama-Challenge/blob/master/screenshots/Screenshot%202024-05-21%20at%2011.25.54.png) |
 
 
 ```
